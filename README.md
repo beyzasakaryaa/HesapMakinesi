@@ -9,3 +9,6 @@ Bu proje, Android Studio ve Kotlin programlama dili kullanılarak geliştirilmi�
 - 🧮 "=" tuşu ile işlem sonucu hesaplama
 - ♻️ "C" butonu ile giriş temizleme
 - 🖋️ Çok haneli sayı desteği (örneğin 12 + 34 gibi) 
+
+
+![image](https://github.com/user-attachments/assets/ce61b1e1-ea08-4c95-ad6f-54025135d387)
